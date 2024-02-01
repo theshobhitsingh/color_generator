@@ -1,2 +1,3 @@
 # color_generator
-Everytime you click the button; a new color will be generated randomly.
+A new color will be generated randomly every time you click the button.
+Technologies used: HTML, CSS, JS.
