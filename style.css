@@ -1,0 +1,47 @@
+body {
+  background: #1e1e1e; /* Dark background */
+  color: #fff; /* White text */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: "Roboto", sans-serif; /* Example: Changing to Roboto font */
+}
+
+button {
+  background-color: #4caf50; /* Green color */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: background-color 0.3s ease; /* Smooth color transition */
+  border-radius: 5px; /* Rounded corners */
+}
+
+button:hover {
+  background-color: #007bff; /* Darker shade of blue */
+}
+
+#colorDiv {
+  height: 400px;
+  width: 500px;
+  border: 1px solid #4caf50; /* Green border */
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.5em;
+  background: #333; /* Darker background */
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.6); /* Stronger box shadow */
+  border-radius: 8px; /* Rounded corners */
+}
