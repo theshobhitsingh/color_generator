@@ -38,5 +38,5 @@ Here’s how to use the Random Color Generator:
 2. The background color of the div below the button will change to the newly generated color.
 3. View the Color
 
-## Author
-Me
+## Coder
+***Shobhit Singh***
